@@ -1,4 +1,8 @@
 <p align="center">
+  <a href="README.md">🇺🇸 English</a> | <a href="README_CN.md">🇨🇳 中文</a>
+</p>
+
+<p align="center">
   <img src="logo.png" alt="Lynote Logo" width="120"/>
 </p>
 
