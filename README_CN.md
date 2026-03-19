@@ -51,6 +51,10 @@ Lynote 是一个完全 **免费** 的一站式 AI 工作 + 学习全能助手。
 - 🧩 搭配免费 Chrome 插件，边看视频边生成转录
 - 💰 100% 免费，无需注册，无限使用
 
+<p align="center">
+  <img src="screenshot-transcript.png" alt="YouTube 视频转录" width="800"/>
+</p>
+
 ### YouTube 视频总结
 
 把 AI 总结和视频关键快照相结合，自动抓取 PPT 页面、图表、代码页等关键画面，生成图文并茂的学习笔记。
@@ -68,6 +72,10 @@ Lynote 是一个完全 **免费** 的一站式 AI 工作 + 学习全能助手。
 - 🎵 可单独下载音频
 - 💰 100% 免费，无需注册，无限使用
 
+<p align="center">
+  <img src="screenshot-downloader.png" alt="YouTube 视频下载" width="800"/>
+</p>
+
 ## 📚 AI 学习工具
 
 ### AI 检测器
@@ -78,6 +86,10 @@ Lynote 是一个完全 **免费** 的一站式 AI 工作 + 学习全能助手。
 - 🎯 99% 准确率，对标行业顶尖水平
 - 🌍 支持 80+ 种语言，支持长文本
 - 💰 每日 20 次免费使用
+
+<p align="center">
+  <img src="screenshot-detector.png" alt="AI 检测器" width="800"/>
+</p>
 
 ### AI 拟人化改写
 
